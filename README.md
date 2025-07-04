@@ -1,61 +1,40 @@
-# Cameline Nasambu’s Portfolio 🌐
+# Cameline Nasambu | Portfolio Landing Page
 
-Welcome to my personal portfolio website!  
-This project showcases who I am, what I’ve worked on, and how to contact me.
+Welcome to my main portfolio site — a personal homepage built with HTML & CSS and hosted on **GitHub Pages**.
 
----
-
-## 🧑‍💻 About Me
-
-I'm **Cameline Nasambu**, transitioning from a finance background into the tech space — passionate about **cloud computing**, **automation**, and **digital transformation**.  
-With experience as a finance intern, billing officer, and receptionist, I bring strong organizational and communication skills into my evolving tech journey.
+### 🌐 Live Site
+[https://meline-bit.github.io](https://meline-bit.github.io)
 
 ---
 
-## 🖥️ Hosted On:
+## 🧭 Overview
 
-- 🟦 **Amazon EC2 Instance** using Apache Web Server  
-- 🖼️ Live static website designed with HTML/CSS  
-- 🔄 Files pushed directly from EC2 to [GitHub](https://github.com/meline-bit)
+This page highlights:
+- My transition into tech
+- Key projects
+- Contact links
+- Hosted demos
 
 ---
 
-## 📂 Project Structure
+## 🚀 Featured Links
 
-```bash
-.
-├── index.html
-├── styles.css
-├── favicon.ico
-├── resume.pdf
-├── images/
-│ └── me.jpg
-└── README.md
+- [EC2 Portfolio (Detailed)](http://52.51.207.57)
+- [Chat App GitHub Repo](https://github.com/meline-bit/chat-app)
+- [GitHub Profile](https://github.com/meline-bit)
 
-## 📌 Features
+---
 
-- 📸 Professional personal bio and profile photo  
-- 📬 Contact information and social links (LinkedIn, email)  
-- 📄 Downloadable resume  
-- 🌐 Custom favicon for branding  
-- 🌱 Built for scalability and easy updates  
+## 🛠️ Technologies Used
 
-## ⚙️ Technologies Used
+- HTML & CSS
+- Git + GitHub Pages
 
-- ✅ HTML5 & CSS3 for frontend layout and styling  
-- ✅ Apache2 Web Server for serving static files  
-- ✅ Git & GitHub for version control and collaboration  
-- ✅ AWS EC2 (Ubuntu) for hosting  
-- ✅ Linux CLI tools for deployment and configuration  
+---
 
-## 📬 Contact Me
+## 👋🏾 About Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/camelinenyongesa-879b8320b](https://www.linkedin.com/in/camelinenyongesa-879b8320b)  
-- 💻 GitHub: [https://github.com/meline-bit](https://github.com/meline-bit)  
-- 📧 Email: nasambucamelinen@gmail.com
+I'm a finance graduate stepping into the world of cloud, automation, and development — one script and deployment at a time.
 
-## 🌟 Acknowledgments
-
-Thanks to the AWS Free Tier, open-source communities, and learning platforms that helped shape this site.  
-Special shoutout to **Techop** for mentorship and support during setup & deployment 🫶
+> Powered by GitHub Pages · Styled by hand 🖋️
 
