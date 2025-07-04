@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cameline Nasambu | Portfolio Landing Page
 
 Welcome to my main portfolio site — a personal homepage built with HTML & CSS and hosted on **GitHub Pages**.
@@ -38,3 +39,6 @@ I'm a finance graduate stepping into the world of cloud, automation, and develop
 
 > Powered by GitHub Pages · Styled by hand 🖋️
 
+=======
+# Meline-bit.github.io
+>>>>>>> a5b2aef9843a70ebfbcd21e251d8d6c7a5a0168a
