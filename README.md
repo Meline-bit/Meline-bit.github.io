@@ -1,43 +1,61 @@
-# 💻 Cameline's EC2 Portfolio Website
+# Cameline Nasambu’s Portfolio 🌐
 
-Welcome to my personal portfolio website — built using HTML & CSS, and hosted on an Amazon EC2 instance using Apache. This project showcases my skills, career journey, and passion for technology, finance, and digital transformation.
+Welcome to my personal portfolio website!  
+This project showcases who I am, what I’ve worked on, and how to contact me.
+
+---
+
+## 🧑‍💻 About Me
+
+I'm **Cameline Nasambu**, transitioning from a finance background into the tech space — passionate about **cloud computing**, **automation**, and **digital transformation**.  
+With experience as a finance intern, billing officer, and receptionist, I bring strong organizational and communication skills into my evolving tech journey.
 
 ---
 
-## 🌍 Live Website
+## 🖥️ Hosted On:
 
-🔗 [http://52.51.207.57](http://52.51.207.57)
-
+- 🟦 **Amazon EC2 Instance** using Apache Web Server  
+- 🖼️ Live static website designed with HTML/CSS  
+- 🔄 Files pushed directly from EC2 to [GitHub](https://github.com/meline-bit)
 
 ---
+
+## 📂 Project Structure
+
+```bash
+.
+├── index.html
+├── styles.css
+├── favicon.ico
+├── resume.pdf
+├── images/
+│ └── me.jpg
+└── README.md
 
 ## 📌 Features
 
-- Custom-built static site with HTML & CSS
-- Resume downloadable directly from the site
-- Professional photo and contact links
-- Favicon and personal branding
-- Hosted using Apache on AWS EC2
-- Source-controlled via Git and GitHub
+- 📸 Professional personal bio and profile photo  
+- 📬 Contact information and social links (LinkedIn, email)  
+- 📄 Downloadable resume  
+- 🌐 Custom favicon for branding  
+- 🌱 Built for scalability and easy updates  
 
----
+## ⚙️ Technologies Used
 
-## 🛠️ Tools & Technologies
+- ✅ HTML5 & CSS3 for frontend layout and styling  
+- ✅ Apache2 Web Server for serving static files  
+- ✅ Git & GitHub for version control and collaboration  
+- ✅ AWS EC2 (Ubuntu) for hosting  
+- ✅ Linux CLI tools for deployment and configuration  
 
-- **Frontend:** HTML5, CSS3  
-- **Apache Server:** On Amazon linux  
-- **Version Control:** Git & GitHub  
-- **Terminal Editing:** Vim over SSH (PuTTY)  
-- **Cloud Hosting:** AWS EC2
+## 📬 Contact Me
 
----
+- 💼 LinkedIn: [https://www.linkedin.com/in/camelinenyongesa-879b8320b](https://www.linkedin.com/in/camelinenyongesa-879b8320b)  
+- 💻 GitHub: [https://github.com/meline-bit](https://github.com/meline-bit)  
+- 📧 Email: nasambucamelinen@gmail.com
 
-## 🚀 Run Locally
+## 🌟 Acknowledgments
 
-To clone and run locally:
-
-```bash
-git clone https://github.com/Meline-bit/ec2-portfolio.git
-cd ec2-portfolio
-start index.html
+Thanks to the AWS Free Tier, open-source communities, and learning platforms that helped shape this site.  
+Special shoutout to **Techop** for mentorship and support during setup & deployment 🫶
 
